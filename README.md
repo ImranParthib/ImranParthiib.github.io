@@ -23,4 +23,4 @@ All of my projects are shown in my portfolio.
 
 ## Contact Me
 
-Feel free to reach out to me via [my website](https://imranparthib.me/#contact) or connect with me on [LinkedIn](https://www.linkedin.com/in/imranparthib/). You can also check out my [GitHub](https://github.com/imranparthiib) for more projects. I am always open to discussing new opportunities, collaborations, or just chatting about web development. Let's connect and create something amazing together!
+Feel free to reach out to me via [my website](https://imranparthib.me/#contact) or connect with me on [LinkedIn](https://www.linkedin.com/in/imranparthib/). You can also check out my [GitHub](https://github.com/ ImranParthib) for more projects. I am always open to discussing new opportunities, collaborations, or just chatting about web development. Let's connect and create something amazing together!
