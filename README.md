@@ -19,8 +19,8 @@ All of my projects are shown in my portfolio.
 - **JavaScript**: Experienced in writing clean and efficient JavaScript code, including ES6+ features.
 - **Responsive Design**: Ability to create websites that look great on all devices, from desktops to mobile phones.
 - **Git**: Proficient in using Git for version control, including branching, merging, and pull requests.
-- **Additional Skills**: Familiar with frameworks and libraries such as React, Bootstrap, and jQuery. Experience with backend technologies like Node.js and Express.
+- **Additional Skills**: Familiar with frameworks and libraries such as React, Nextjs, Bootstrap & Tailwind. Learning backend technologies like Node.js and Express.
 
 ## Contact Me
 
-Feel free to reach out to me via [my website](https://imranparthib.me/#contact) or connect with me on [LinkedIn](https://www.linkedin.com/in/imranparthib/). You can also check out my [GitHub](https://github.com/ ImranParthib) for more projects. I am always open to discussing new opportunities, collaborations, or just chatting about web development. Let's connect and create something amazing together!
+Feel free to reach out to me via [my website](https://imranparthib.me/#contact) or connect with me on [LinkedIn](https://www.linkedin.com/in/imranparthib/). You can also check out my [GitHub](https://github.com/ImranParthib) for more projects. I am always open to discussing new opportunities, collaborations, or just chatting about web development. Let's connect and create something amazing together!
